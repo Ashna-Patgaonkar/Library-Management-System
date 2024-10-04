@@ -2,7 +2,7 @@
 
 This project is a **Library Management System** built using **Java Swing** for the user interface and **MySQL** as the database. It simplifies the management of library operations like adding, searching, and issuing books, providing a user-friendly interface and efficient database connectivity through **JDBC**.
 
-## Features 🛠️
+🛠️ ## Features 
 
 - **Add Books**: Add new books to the library database with details like title, author, and book ID.
 - **Search Books**: Search for books by title, author, or book ID.
@@ -10,7 +10,7 @@ This project is a **Library Management System** built using **Java Swing** for t
 - **Seamless Database Integration**: Automated data retrieval and manipulation with JDBC, eliminating manual database access.
 - **User-Friendly Interface**: Built with Java Swing to offer a simple and intuitive user experience.
 
-## Technologies Used
+👩🏻‍💻 ## Technologies Used
 
 - **Java (Swing)**: For building the graphical user interface (GUI).
 - **MySQL**: For storing and managing the library’s book data.

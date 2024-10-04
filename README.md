@@ -21,3 +21,8 @@ This project is a **Library Management System** built using **Java Swing** for t
 - **Java**: Version 8 or higher
 - **MySQL**: Version 5.7 or higher
 - **IDE**: Any Java-compatible IDE like IntelliJ IDEA, Eclipse, or NetBeans
+
+## Project Demonstration
+
+Watch My Live Project Demo Here: https://youtu.be/GTZJREMYibA
+Enjoy!

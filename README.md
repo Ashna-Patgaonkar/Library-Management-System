@@ -10,7 +10,7 @@ This project is a **Library Management System** built using **Java Swing** for t
 - **Seamless Database Integration**: Automated data retrieval and manipulation with JDBC, eliminating manual database access.
 - **User-Friendly Interface**: Built with Java Swing to offer a simple and intuitive user experience.
 
-👩🏻‍💻 ## Technologies Used
+## 👩🏻‍💻 Technologies Used
 
 - **Java (Swing)**: For building the graphical user interface (GUI).
 - **MySQL**: For storing and managing the library’s book data.
